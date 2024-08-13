@@ -1,0 +1,8 @@
+Num1 = int(input("Enter first number:"))
+Num2 = int(input("Enter second number:"))
+print(f"Maximum Number: {max(Num1, Num2)}")
+print(f"Power: {pow(Num1, Num2)}")
+print(f"Sum:{Num1+Num2}")
+print(f"Sub:{Num1-Num2}")
+print(f"Mul:{Num1*Num2}")
+print(f"Div:{Num1/Num2}")
