@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad3a2f67-1960-4691-9013-8fdf54c65fe1" name="Changes" comment="New Files Uploaded" />
+    <list default="true" id="ad3a2f67-1960-4691-9013-8fdf54c65fe1" name="Changes" comment="New Files Uploaded">
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab061.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab062.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab063.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab064.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab065.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab066.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab067.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab068.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab069.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab070.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,6 +113,16 @@
     "Python.Lab013.executor": "Run",
     "Python.Lab014.executor": "Run",
     "Python.Lab015.executor": "Run",
+    "Python.Lab061.executor": "Run",
+    "Python.Lab062.executor": "Run",
+    "Python.Lab063.executor": "Run",
+    "Python.Lab064.executor": "Run",
+    "Python.Lab065.executor": "Run",
+    "Python.Lab066.executor": "Run",
+    "Python.Lab067.executor": "Run",
+    "Python.Lab068.executor": "Run",
+    "Python.Task10.executor": "Run",
+    "Python.Task11.executor": "Run",
     "Python.Task3.executor": "Run",
     "Python.Task4.executor": "Run",
     "Python.Task5.executor": "Run",
@@ -176,7 +198,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724382056770</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="New Files Uploaded">
+      <option name="closed" value="true" />
+      <created>1724382871741</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1724382871741</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
